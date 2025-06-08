@@ -1,0 +1,12 @@
+[project]
+name = "terra_mystica_lite"
+version = "0.1.0"
+description = "A simple Terra Mystica game in Python"
+authors = [{ name="Student", email="student@email.com" }]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
